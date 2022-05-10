@@ -7,3 +7,6 @@ Start:
 
 Stop:	
 	-npx kill-port 3000
+
+Will need to add an installation react router:
+	-npm install react-router-dom
